@@ -1,4 +1,4 @@
-echo '{ "tvl": 0 }' > tvl.json
-git add tvl.json
-git commit -m "Add TVL JSON file"
-git push origin main
+{
+  "tvl": 0
+}
+
